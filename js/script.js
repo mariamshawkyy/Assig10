@@ -57,3 +57,4 @@ fetchGifBtn.addEventListener("click", async function () {
   }
 
 });
+
